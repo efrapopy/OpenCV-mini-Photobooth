@@ -24,7 +24,7 @@ ttsfoto/Scripts/activate
 ```
 
 ```bash
-python -m pip install opencv-python pygame speechrecognition pyaudio edge-tts
+python -m pip install opencv-python pygame pillow customtkinter edge-tts
 ```
 ## Settings Webcam 
 
