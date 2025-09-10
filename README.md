@@ -46,6 +46,15 @@ type this in terminal to check Language and gender you can used
 ```bash
 edge-tts --list-voices
 ```
+
+## Add or Editing Frames 
+```
+The frames must be PNG format
+```
+```
+the scale of pixel is 1920 x 1080
+```
+
 ## Result
 
 
